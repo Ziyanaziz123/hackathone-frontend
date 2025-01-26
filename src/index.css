@@ -6,24 +6,23 @@
 }
 :root {
   /* Primary Colors */
-  --primary-navy: #003f5c;
-  --primary-sky: #0077b6;
+  --primary-navy: #1b2430; /* Midnight Blue */
+  --primary-sky: #635985; /* Dusty Purple */
 
   /* Secondary Colors */
-  --secondary-green: #2ec4b6;
-  --secondary-yellow: #ffba08;
+  --secondary-green: #52b788; /* Fresh Green */
+  --secondary-yellow: #ffcf56; /* Soft Gold */
 
   /* Backgrounds & Neutrals */
-  --bg-light: #f4f4f4;
-  --bg-white: #ffffff;
-  --neutral-dark: #333333;
+  --bg-light: #eaeaea; /* Light Gray */
+  --bg-white: #fcfcfc; /* Almost White */
+  --neutral-dark: #2d2d2d; /* Charcoal Gray */
 
   /* Error & Alerts */
-  --error-red: #d90429;
-  --warning-orange: #ffa502;
+  --error-red: #e63946; /* Coral Red */
+  --warning-orange: #f4a261; /* Muted Orange */
 
   /* Typography */
-  --text-primary: #222429;
-  --text-secondary: #6c757d;
+  --text-primary: #212529; /* Dark Charcoal */
+  --text-secondary: #495057; /* Cool Gray */
 }
-
